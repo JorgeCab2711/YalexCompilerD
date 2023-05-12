@@ -1,0 +1,1108 @@
+digraph MegaNFA {
+	rankdir=LR
+	node [color=lightgrey shape=circle style=filled]
+	"q_-1"
+	node [shape=circle style=""]
+	nfa0_q1
+	node [shape=circle style=""]
+	nfa0_q4
+	node [shape=circle style=""]
+	nfa0_q3
+	node [shape=circle style=""]
+	nfa0_q2
+	node [shape=circle style=""]
+	nfa1_q5
+	node [shape=circle style=""]
+	nfa1_q7
+	node [shape=circle style=""]
+	nfa1_q9
+	node [shape=circle style=""]
+	nfa1_q3
+	node [shape=circle style=""]
+	nfa1_q4
+	node [shape=circle style=""]
+	nfa1_q1
+	node [shape=circle style=""]
+	nfa1_q10
+	node [shape=circle style=""]
+	nfa1_q6
+	node [shape=circle style=""]
+	nfa1_q8
+	node [shape=circle style=""]
+	nfa1_q2
+	node [shape=circle style=""]
+	nfa2_q1
+	node [shape=circle style=""]
+	nfa2_q9
+	node [shape=circle style=""]
+	nfa2_q45
+	node [shape=circle style=""]
+	nfa2_q10
+	node [shape=circle style=""]
+	nfa2_q77
+	node [shape=circle style=""]
+	nfa2_q46
+	node [shape=circle style=""]
+	nfa2_q78
+	node [shape=circle style=""]
+	nfa2_q13
+	node [shape=circle style=""]
+	nfa2_q14
+	node [shape=circle style=""]
+	nfa2_q15
+	node [shape=circle style=""]
+	nfa2_q47
+	node [shape=circle style=""]
+	nfa2_q79
+	node [shape=circle style=""]
+	nfa2_q16
+	node [shape=circle style=""]
+	nfa2_q48
+	node [shape=circle style=""]
+	nfa2_q80
+	node [shape=circle style=""]
+	nfa2_q49
+	node [shape=circle style=""]
+	nfa2_q17
+	node [shape=circle style=""]
+	nfa2_q81
+	node [shape=circle style=""]
+	nfa2_q50
+	node [shape=circle style=""]
+	nfa2_q18
+	node [shape=circle style=""]
+	nfa2_q82
+	node [shape=circle style=""]
+	nfa2_q19
+	node [shape=circle style=""]
+	nfa2_q51
+	node [shape=circle style=""]
+	nfa2_q83
+	node [shape=circle style=""]
+	nfa2_q52
+	node [shape=circle style=""]
+	nfa2_q20
+	node [shape=circle style=""]
+	nfa2_q84
+	node [shape=circle style=""]
+	nfa2_q21
+	node [shape=circle style=""]
+	nfa2_q53
+	node [shape=circle style=""]
+	nfa2_q85
+	node [shape=circle style=""]
+	nfa2_q22
+	node [shape=circle style=""]
+	nfa2_q54
+	node [shape=circle style=""]
+	nfa2_q86
+	node [shape=circle style=""]
+	nfa2_q23
+	node [shape=circle style=""]
+	nfa2_q55
+	node [shape=circle style=""]
+	nfa2_q87
+	node [shape=circle style=""]
+	nfa2_q24
+	node [shape=circle style=""]
+	nfa2_q56
+	node [shape=circle style=""]
+	nfa2_q76
+	node [shape=circle style=""]
+	nfa2_q88
+	node [shape=circle style=""]
+	nfa2_q25
+	node [shape=circle style=""]
+	nfa2_q57
+	node [shape=circle style=""]
+	nfa2_q89
+	node [shape=circle style=""]
+	nfa2_q26
+	node [shape=circle style=""]
+	nfa2_q58
+	node [shape=circle style=""]
+	nfa2_q90
+	node [shape=circle style=""]
+	nfa2_q27
+	node [shape=circle style=""]
+	nfa2_q59
+	node [shape=circle style=""]
+	nfa2_q91
+	node [shape=circle style=""]
+	nfa2_q28
+	node [shape=circle style=""]
+	nfa2_q60
+	node [shape=circle style=""]
+	nfa2_q92
+	node [shape=circle style=""]
+	nfa2_q29
+	node [shape=circle style=""]
+	nfa2_q61
+	node [shape=circle style=""]
+	nfa2_q93
+	node [shape=circle style=""]
+	nfa2_q11
+	node [shape=circle style=""]
+	nfa2_q30
+	node [shape=circle style=""]
+	nfa2_q62
+	node [shape=circle style=""]
+	nfa2_q94
+	node [shape=circle style=""]
+	nfa2_q31
+	node [shape=circle style=""]
+	nfa2_q63
+	node [shape=circle style=""]
+	nfa2_q95
+	node [shape=circle style=""]
+	nfa2_q32
+	node [shape=circle style=""]
+	nfa2_q64
+	node [shape=circle style=""]
+	nfa2_q96
+	node [shape=circle style=""]
+	nfa2_q12
+	node [shape=circle style=""]
+	nfa2_q33
+	node [shape=circle style=""]
+	nfa2_q65
+	node [shape=circle style=""]
+	nfa2_q97
+	node [shape=circle style=""]
+	nfa2_q34
+	node [shape=circle style=""]
+	nfa2_q66
+	node [shape=circle style=""]
+	nfa2_q98
+	node [shape=circle style=""]
+	nfa2_q35
+	node [shape=circle style=""]
+	nfa2_q67
+	node [shape=circle style=""]
+	nfa2_q99
+	node [shape=circle style=""]
+	nfa2_q36
+	node [shape=circle style=""]
+	nfa2_q68
+	node [shape=circle style=""]
+	nfa2_q100
+	node [shape=circle style=""]
+	nfa2_q2
+	node [shape=circle style=""]
+	nfa2_q37
+	node [shape=circle style=""]
+	nfa2_q69
+	node [shape=circle style=""]
+	nfa2_q101
+	node [shape=circle style=""]
+	nfa2_q3
+	node [shape=circle style=""]
+	nfa2_q38
+	node [shape=circle style=""]
+	nfa2_q70
+	node [shape=circle style=""]
+	nfa2_q102
+	node [shape=circle style=""]
+	nfa2_q4
+	node [shape=circle style=""]
+	nfa2_q39
+	node [shape=circle style=""]
+	nfa2_q71
+	node [shape=circle style=""]
+	nfa2_q103
+	node [shape=circle style=""]
+	nfa2_q40
+	node [shape=circle style=""]
+	nfa2_q72
+	node [shape=circle style=""]
+	nfa2_q104
+	node [shape=circle style=""]
+	nfa2_q5
+	node [shape=circle style=""]
+	nfa2_q6
+	node [shape=circle style=""]
+	nfa2_q41
+	node [shape=circle style=""]
+	nfa2_q73
+	node [shape=circle style=""]
+	nfa2_q42
+	node [shape=circle style=""]
+	nfa2_q74
+	node [shape=circle style=""]
+	nfa2_q7
+	node [shape=circle style=""]
+	nfa2_q8
+	node [shape=circle style=""]
+	nfa2_q43
+	node [shape=circle style=""]
+	nfa2_q75
+	node [shape=circle style=""]
+	nfa2_q44
+	node [shape=circle style=""]
+	nfa3_q2
+	node [shape=circle style=""]
+	nfa3_q3
+	node [shape=circle style=""]
+	nfa3_q5
+	node [shape=circle style=""]
+	nfa3_q1
+	node [shape=circle style=""]
+	nfa3_q6
+	node [shape=circle style=""]
+	nfa3_q4
+	node [shape=circle style=""]
+	nfa4_q17
+	node [shape=circle style=""]
+	nfa4_q18
+	node [shape=circle style=""]
+	nfa4_q12
+	node [shape=circle style=""]
+	nfa4_q1
+	node [shape=circle style=""]
+	nfa4_q11
+	node [shape=circle style=""]
+	nfa4_q19
+	node [shape=circle style=""]
+	nfa4_q20
+	node [shape=circle style=""]
+	nfa4_q10
+	node [shape=circle style=""]
+	nfa4_q9
+	node [shape=circle style=""]
+	nfa4_q8
+	node [shape=circle style=""]
+	nfa4_q7
+	node [shape=circle style=""]
+	nfa4_q13
+	node [shape=circle style=""]
+	nfa4_q6
+	node [shape=circle style=""]
+	nfa4_q14
+	node [shape=circle style=""]
+	nfa4_q5
+	node [shape=circle style=""]
+	nfa4_q15
+	node [shape=circle style=""]
+	nfa4_q4
+	node [shape=circle style=""]
+	nfa4_q16
+	node [shape=circle style=""]
+	nfa4_q3
+	node [shape=circle style=""]
+	nfa4_q2
+	node [shape=circle style=""]
+	nfa5_q9
+	node [shape=circle style=""]
+	nfa5_q16
+	node [shape=circle style=""]
+	nfa5_q20
+	node [shape=circle style=""]
+	nfa5_q31
+	node [shape=circle style=""]
+	nfa5_q39
+	node [shape=circle style=""]
+	nfa5_q3
+	node [shape=circle style=""]
+	nfa5_q10
+	node [shape=circle style=""]
+	nfa5_q32
+	node [shape=circle style=""]
+	nfa5_q40
+	node [shape=circle style=""]
+	nfa5_q4
+	node [shape=circle style=""]
+	nfa5_q11
+	node [shape=circle style=""]
+	nfa5_q41
+	node [shape=circle style=""]
+	nfa5_q15
+	node [shape=circle style=""]
+	nfa5_q19
+	node [shape=circle style=""]
+	nfa5_q42
+	node [shape=circle style=""]
+	nfa5_q33
+	node [shape=circle style=""]
+	nfa5_q12
+	node [shape=circle style=""]
+	nfa5_q34
+	node [shape=circle style=""]
+	nfa5_q5
+	node [shape=circle style=""]
+	nfa5_q13
+	node [shape=circle style=""]
+	nfa5_q26
+	node [shape=circle style=""]
+	nfa5_q30
+	node [shape=circle style=""]
+	nfa5_q14
+	node [shape=circle style=""]
+	nfa5_q18
+	node [shape=circle style=""]
+	nfa5_q21
+	node [shape=circle style=""]
+	nfa5_q38
+	node [shape=circle style=""]
+	nfa5_q24
+	node [shape=circle style=""]
+	nfa5_q27
+	node [shape=circle style=""]
+	nfa5_q35
+	node [shape=circle style=""]
+	nfa5_q6
+	node [shape=circle style=""]
+	nfa5_q22
+	node [shape=circle style=""]
+	nfa5_q28
+	node [shape=circle style=""]
+	nfa5_q36
+	node [shape=circle style=""]
+	nfa5_q7
+	node [shape=circle style=""]
+	nfa5_q25
+	node [shape=circle style=""]
+	nfa5_q2
+	node [shape=circle style=""]
+	nfa5_q17
+	node [shape=circle style=""]
+	nfa5_q23
+	node [shape=circle style=""]
+	nfa5_q29
+	node [shape=circle style=""]
+	nfa5_q37
+	node [shape=circle style=""]
+	nfa5_q8
+	node [shape=circle style=""]
+	nfa5_q1
+	node [shape=circle style=""]
+	nfa6_q8
+	node [shape=circle style=""]
+	nfa6_q87
+	node [shape=circle style=""]
+	nfa6_q119
+	node [shape=circle style=""]
+	nfa6_q51
+	node [shape=circle style=""]
+	nfa6_q151
+	node [shape=circle style=""]
+	nfa6_q9
+	node [shape=circle style=""]
+	nfa6_q88
+	node [shape=circle style=""]
+	nfa6_q120
+	node [shape=circle style=""]
+	nfa6_q52
+	node [shape=circle style=""]
+	nfa6_q152
+	node [shape=circle style=""]
+	nfa6_q10
+	node [shape=circle style=""]
+	nfa6_q53
+	node [shape=circle style=""]
+	nfa6_q89
+	node [shape=circle style=""]
+	nfa6_q121
+	node [shape=circle style=""]
+	nfa6_q11
+	node [shape=circle style=""]
+	nfa6_q153
+	node [shape=circle style=""]
+	nfa6_q54
+	node [shape=circle style=""]
+	nfa6_q90
+	node [shape=circle style=""]
+	nfa6_q122
+	node [shape=circle style=""]
+	nfa6_q12
+	node [shape=circle style=""]
+	nfa6_q154
+	node [shape=circle style=""]
+	nfa6_q55
+	node [shape=circle style=""]
+	nfa6_q13
+	node [shape=circle style=""]
+	nfa6_q56
+	node [shape=circle style=""]
+	nfa6_q91
+	node [shape=circle style=""]
+	nfa6_q123
+	node [shape=circle style=""]
+	nfa6_q155
+	node [shape=circle style=""]
+	nfa6_q14
+	node [shape=circle style=""]
+	nfa6_q57
+	node [shape=circle style=""]
+	nfa6_q92
+	node [shape=circle style=""]
+	nfa6_q124
+	node [shape=circle style=""]
+	nfa6_q156
+	node [shape=circle style=""]
+	nfa6_q15
+	node [shape=circle style=""]
+	nfa6_q58
+	node [shape=circle style=""]
+	nfa6_q16
+	node [shape=circle style=""]
+	nfa6_q93
+	node [shape=circle style=""]
+	nfa6_q125
+	node [shape=circle style=""]
+	nfa6_q59
+	node [shape=circle style=""]
+	nfa6_q157
+	node [shape=circle style=""]
+	nfa6_q17
+	node [shape=circle style=""]
+	nfa6_q94
+	node [shape=circle style=""]
+	nfa6_q126
+	node [shape=circle style=""]
+	nfa6_q60
+	node [shape=circle style=""]
+	nfa6_q158
+	node [shape=circle style=""]
+	nfa6_q18
+	node [shape=circle style=""]
+	nfa6_q61
+	node [shape=circle style=""]
+	nfa6_q95
+	node [shape=circle style=""]
+	nfa6_q127
+	node [shape=circle style=""]
+	nfa6_q19
+	node [shape=circle style=""]
+	nfa6_q159
+	node [shape=circle style=""]
+	nfa6_q62
+	node [shape=circle style=""]
+	nfa6_q96
+	node [shape=circle style=""]
+	nfa6_q128
+	node [shape=circle style=""]
+	nfa6_q20
+	node [shape=circle style=""]
+	nfa6_q160
+	node [shape=circle style=""]
+	nfa6_q63
+	node [shape=circle style=""]
+	nfa6_q21
+	node [shape=circle style=""]
+	nfa6_q64
+	node [shape=circle style=""]
+	nfa6_q97
+	node [shape=circle style=""]
+	nfa6_q129
+	node [shape=circle style=""]
+	nfa6_q161
+	node [shape=circle style=""]
+	nfa6_q22
+	node [shape=circle style=""]
+	nfa6_q65
+	node [shape=circle style=""]
+	nfa6_q98
+	node [shape=circle style=""]
+	nfa6_q130
+	node [shape=circle style=""]
+	nfa6_q162
+	node [shape=circle style=""]
+	nfa6_q23
+	node [shape=circle style=""]
+	nfa6_q66
+	node [shape=circle style=""]
+	nfa6_q24
+	node [shape=circle style=""]
+	nfa6_q99
+	node [shape=circle style=""]
+	nfa6_q131
+	node [shape=circle style=""]
+	nfa6_q67
+	node [shape=circle style=""]
+	nfa6_q163
+	node [shape=circle style=""]
+	nfa6_q25
+	node [shape=circle style=""]
+	nfa6_q100
+	node [shape=circle style=""]
+	nfa6_q132
+	node [shape=circle style=""]
+	nfa6_q68
+	node [shape=circle style=""]
+	nfa6_q164
+	node [shape=circle style=""]
+	nfa6_q26
+	node [shape=circle style=""]
+	nfa6_q69
+	node [shape=circle style=""]
+	nfa6_q101
+	node [shape=circle style=""]
+	nfa6_q133
+	node [shape=circle style=""]
+	nfa6_q27
+	node [shape=circle style=""]
+	nfa6_q165
+	node [shape=circle style=""]
+	nfa6_q70
+	node [shape=circle style=""]
+	nfa6_q102
+	node [shape=circle style=""]
+	nfa6_q134
+	node [shape=circle style=""]
+	nfa6_q28
+	node [shape=circle style=""]
+	nfa6_q166
+	node [shape=circle style=""]
+	nfa6_q29
+	node [shape=circle style=""]
+	nfa6_q71
+	node [shape=circle style=""]
+	nfa6_q103
+	node [shape=circle style=""]
+	nfa6_q135
+	node [shape=circle style=""]
+	nfa6_q167
+	node [shape=circle style=""]
+	nfa6_q30
+	node [shape=circle style=""]
+	nfa6_q72
+	node [shape=circle style=""]
+	nfa6_q104
+	node [shape=circle style=""]
+	nfa6_q136
+	node [shape=circle style=""]
+	nfa6_q168
+	node [shape=circle style=""]
+	nfa6_q31
+	node [shape=circle style=""]
+	nfa6_q1
+	node [shape=circle style=""]
+	nfa6_q73
+	node [shape=circle style=""]
+	nfa6_q32
+	node [shape=circle style=""]
+	nfa6_q105
+	node [shape=circle style=""]
+	nfa6_q137
+	node [shape=circle style=""]
+	nfa6_q169
+	node [shape=circle style=""]
+	nfa6_q74
+	node [shape=circle style=""]
+	nfa6_q33
+	node [shape=circle style=""]
+	nfa6_q106
+	node [shape=circle style=""]
+	nfa6_q138
+	node [shape=circle style=""]
+	nfa6_q170
+	node [shape=circle style=""]
+	nfa6_q34
+	node [shape=circle style=""]
+	nfa6_q75
+	node [shape=circle style=""]
+	nfa6_q107
+	node [shape=circle style=""]
+	nfa6_q139
+	node [shape=circle style=""]
+	nfa6_q35
+	node [shape=circle style=""]
+	nfa6_q171
+	node [shape=circle style=""]
+	nfa6_q76
+	node [shape=circle style=""]
+	nfa6_q108
+	node [shape=circle style=""]
+	nfa6_q140
+	node [shape=circle style=""]
+	nfa6_q36
+	node [shape=circle style=""]
+	nfa6_q172
+	node [shape=circle style=""]
+	nfa6_q37
+	node [shape=circle style=""]
+	nfa6_q77
+	node [shape=circle style=""]
+	nfa6_q109
+	node [shape=circle style=""]
+	nfa6_q141
+	node [shape=circle style=""]
+	nfa6_q173
+	node [shape=circle style=""]
+	nfa6_q38
+	node [shape=circle style=""]
+	nfa6_q78
+	node [shape=circle style=""]
+	nfa6_q110
+	node [shape=circle style=""]
+	nfa6_q142
+	node [shape=circle style=""]
+	nfa6_q174
+	node [shape=circle style=""]
+	nfa6_q39
+	node [shape=circle style=""]
+	nfa6_q79
+	node [shape=circle style=""]
+	nfa6_q40
+	node [shape=circle style=""]
+	nfa6_q111
+	node [shape=circle style=""]
+	nfa6_q143
+	node [shape=circle style=""]
+	nfa6_q175
+	node [shape=circle style=""]
+	nfa6_q80
+	node [shape=circle style=""]
+	nfa6_q41
+	node [shape=circle style=""]
+	nfa6_q112
+	node [shape=circle style=""]
+	nfa6_q144
+	node [shape=circle style=""]
+	nfa6_q176
+	node [shape=circle style=""]
+	nfa6_q42
+	node [shape=circle style=""]
+	nfa6_q81
+	node [shape=circle style=""]
+	nfa6_q113
+	node [shape=circle style=""]
+	nfa6_q145
+	node [shape=circle style=""]
+	nfa6_q43
+	node [shape=circle style=""]
+	nfa6_q177
+	node [shape=circle style=""]
+	nfa6_q2
+	node [shape=circle style=""]
+	nfa6_q82
+	node [shape=circle style=""]
+	nfa6_q114
+	node [shape=circle style=""]
+	nfa6_q146
+	node [shape=circle style=""]
+	nfa6_q44
+	node [shape=circle style=""]
+	nfa6_q178
+	node [shape=circle style=""]
+	nfa6_q3
+	node [shape=circle style=""]
+	nfa6_q45
+	node [shape=circle style=""]
+	nfa6_q83
+	node [shape=circle style=""]
+	nfa6_q115
+	node [shape=circle style=""]
+	nfa6_q147
+	node [shape=circle style=""]
+	nfa6_q4
+	node [shape=circle style=""]
+	nfa6_q46
+	node [shape=circle style=""]
+	nfa6_q84
+	node [shape=circle style=""]
+	nfa6_q179
+	node [shape=circle style=""]
+	nfa6_q116
+	node [shape=circle style=""]
+	nfa6_q148
+	node [shape=circle style=""]
+	nfa6_q47
+	node [shape=circle style=""]
+	nfa6_q180
+	node [shape=circle style=""]
+	nfa6_q5
+	node [shape=circle style=""]
+	nfa6_q85
+	node [shape=circle style=""]
+	nfa6_q48
+	node [shape=circle style=""]
+	nfa6_q117
+	node [shape=circle style=""]
+	nfa6_q149
+	node [shape=circle style=""]
+	nfa6_q6
+	node [shape=circle style=""]
+	nfa6_q86
+	node [shape=circle style=""]
+	nfa6_q49
+	node [shape=circle style=""]
+	nfa6_q118
+	node [shape=circle style=""]
+	nfa6_q150
+	node [shape=circle style=""]
+	nfa6_q7
+	node [shape=circle style=""]
+	nfa6_q50
+	"q_-1" -> nfa0_q1 [label="ε"]
+	"q_-1" -> nfa1_q9 [label="ε"]
+	"q_-1" -> nfa2_q1 [label="ε"]
+	"q_-1" -> nfa3_q5 [label="ε"]
+	"q_-1" -> nfa4_q1 [label="ε"]
+	"q_-1" -> nfa5_q41 [label="ε"]
+	"q_-1" -> nfa6_q179 [label="ε"]
+	nfa0_q1 -> nfa0_q2 [label=t]
+	nfa0_q3 -> nfa0_q4 [label=n]
+	nfa0_q2 -> nfa0_q3 [label="ε"]
+	nfa1_q5 -> nfa1_q6 [label=t]
+	nfa1_q7 -> nfa1_q8 [label=n]
+	nfa1_q9 -> nfa1_q1 [label="ε"]
+	nfa1_q9 -> nfa1_q5 [label="ε"]
+	nfa1_q3 -> nfa1_q4 [label=n]
+	nfa1_q4 -> nfa1_q10 [label="ε"]
+	nfa1_q1 -> nfa1_q2 [label=t]
+	nfa1_q6 -> nfa1_q7 [label="ε"]
+	nfa1_q8 -> nfa1_q10 [label="ε"]
+	nfa1_q2 -> nfa1_q3 [label="ε"]
+	nfa2_q1 -> nfa2_q2 [label=a]
+	nfa2_q9 -> nfa2_q10 [label=e]
+	nfa2_q45 -> nfa2_q46 [label=w]
+	nfa2_q10 -> nfa2_q11 [label="ε"]
+	nfa2_q77 -> nfa2_q78 [label=M]
+	nfa2_q46 -> nfa2_q47 [label="ε"]
+	nfa2_q78 -> nfa2_q79 [label="ε"]
+	nfa2_q13 -> nfa2_q14 [label=g]
+	nfa2_q14 -> nfa2_q15 [label="ε"]
+	nfa2_q15 -> nfa2_q16 [label=h]
+	nfa2_q47 -> nfa2_q48 [label=x]
+	nfa2_q79 -> nfa2_q80 [label=N]
+	nfa2_q16 -> nfa2_q17 [label="ε"]
+	nfa2_q48 -> nfa2_q49 [label="ε"]
+	nfa2_q80 -> nfa2_q81 [label="ε"]
+	nfa2_q49 -> nfa2_q50 [label=y]
+	nfa2_q17 -> nfa2_q18 [label=i]
+	nfa2_q81 -> nfa2_q82 [label=O]
+	nfa2_q50 -> nfa2_q51 [label="ε"]
+	nfa2_q18 -> nfa2_q19 [label="ε"]
+	nfa2_q82 -> nfa2_q83 [label="ε"]
+	nfa2_q19 -> nfa2_q20 [label=j]
+	nfa2_q51 -> nfa2_q52 [label=z]
+	nfa2_q83 -> nfa2_q84 [label=P]
+	nfa2_q52 -> nfa2_q53 [label="ε"]
+	nfa2_q20 -> nfa2_q21 [label="ε"]
+	nfa2_q84 -> nfa2_q85 [label="ε"]
+	nfa2_q21 -> nfa2_q22 [label=k]
+	nfa2_q53 -> nfa2_q54 [label=A]
+	nfa2_q85 -> nfa2_q86 [label=Q]
+	nfa2_q22 -> nfa2_q23 [label="ε"]
+	nfa2_q54 -> nfa2_q55 [label="ε"]
+	nfa2_q86 -> nfa2_q87 [label="ε"]
+	nfa2_q23 -> nfa2_q24 [label=l]
+	nfa2_q55 -> nfa2_q56 [label=B]
+	nfa2_q87 -> nfa2_q88 [label=R]
+	nfa2_q24 -> nfa2_q25 [label="ε"]
+	nfa2_q56 -> nfa2_q57 [label="ε"]
+	nfa2_q76 -> nfa2_q77 [label="ε"]
+	nfa2_q88 -> nfa2_q89 [label="ε"]
+	nfa2_q25 -> nfa2_q26 [label=m]
+	nfa2_q57 -> nfa2_q58 [label=C]
+	nfa2_q89 -> nfa2_q90 [label=S]
+	nfa2_q26 -> nfa2_q27 [label="ε"]
+	nfa2_q58 -> nfa2_q59 [label="ε"]
+	nfa2_q90 -> nfa2_q91 [label="ε"]
+	nfa2_q27 -> nfa2_q28 [label=n]
+	nfa2_q59 -> nfa2_q60 [label=D]
+	nfa2_q91 -> nfa2_q92 [label=T]
+	nfa2_q28 -> nfa2_q29 [label="ε"]
+	nfa2_q60 -> nfa2_q61 [label="ε"]
+	nfa2_q92 -> nfa2_q93 [label="ε"]
+	nfa2_q29 -> nfa2_q30 [label=o]
+	nfa2_q61 -> nfa2_q62 [label=E]
+	nfa2_q93 -> nfa2_q94 [label=U]
+	nfa2_q11 -> nfa2_q12 [label=f]
+	nfa2_q30 -> nfa2_q31 [label="ε"]
+	nfa2_q62 -> nfa2_q63 [label="ε"]
+	nfa2_q94 -> nfa2_q95 [label="ε"]
+	nfa2_q31 -> nfa2_q32 [label=p]
+	nfa2_q63 -> nfa2_q64 [label=F]
+	nfa2_q95 -> nfa2_q96 [label=V]
+	nfa2_q32 -> nfa2_q33 [label="ε"]
+	nfa2_q64 -> nfa2_q65 [label="ε"]
+	nfa2_q96 -> nfa2_q97 [label="ε"]
+	nfa2_q12 -> nfa2_q13 [label="ε"]
+	nfa2_q33 -> nfa2_q34 [label=q]
+	nfa2_q65 -> nfa2_q66 [label=G]
+	nfa2_q97 -> nfa2_q98 [label=W]
+	nfa2_q34 -> nfa2_q35 [label="ε"]
+	nfa2_q66 -> nfa2_q67 [label="ε"]
+	nfa2_q98 -> nfa2_q99 [label="ε"]
+	nfa2_q35 -> nfa2_q36 [label=r]
+	nfa2_q67 -> nfa2_q68 [label=H]
+	nfa2_q99 -> nfa2_q100 [label=X]
+	nfa2_q36 -> nfa2_q37 [label="ε"]
+	nfa2_q68 -> nfa2_q69 [label="ε"]
+	nfa2_q100 -> nfa2_q101 [label="ε"]
+	nfa2_q2 -> nfa2_q3 [label="ε"]
+	nfa2_q37 -> nfa2_q38 [label=s]
+	nfa2_q69 -> nfa2_q70 [label=I]
+	nfa2_q101 -> nfa2_q102 [label=Y]
+	nfa2_q3 -> nfa2_q4 [label=b]
+	nfa2_q38 -> nfa2_q39 [label="ε"]
+	nfa2_q70 -> nfa2_q71 [label="ε"]
+	nfa2_q102 -> nfa2_q103 [label="ε"]
+	nfa2_q4 -> nfa2_q5 [label="ε"]
+	nfa2_q39 -> nfa2_q40 [label=t]
+	nfa2_q71 -> nfa2_q72 [label=J]
+	nfa2_q103 -> nfa2_q104 [label=Z]
+	nfa2_q40 -> nfa2_q41 [label="ε"]
+	nfa2_q72 -> nfa2_q73 [label="ε"]
+	nfa2_q5 -> nfa2_q6 [label=c]
+	nfa2_q6 -> nfa2_q7 [label="ε"]
+	nfa2_q41 -> nfa2_q42 [label=u]
+	nfa2_q73 -> nfa2_q74 [label=K]
+	nfa2_q42 -> nfa2_q43 [label="ε"]
+	nfa2_q74 -> nfa2_q75 [label="ε"]
+	nfa2_q7 -> nfa2_q8 [label=d]
+	nfa2_q8 -> nfa2_q9 [label="ε"]
+	nfa2_q43 -> nfa2_q44 [label=v]
+	nfa2_q75 -> nfa2_q76 [label=L]
+	nfa2_q44 -> nfa2_q45 [label="ε"]
+	nfa3_q2 -> nfa3_q6 [label="ε"]
+	nfa3_q3 -> nfa3_q4 [label=_]
+	nfa3_q5 -> nfa3_q1 [label="ε"]
+	nfa3_q5 -> nfa3_q3 [label="ε"]
+	nfa3_q1 -> nfa3_q2 [label=_]
+	nfa3_q4 -> nfa3_q6 [label="ε"]
+	nfa4_q17 -> nfa4_q18 [label=8]
+	nfa4_q18 -> nfa4_q19 [label="ε"]
+	nfa4_q12 -> nfa4_q13 [label="ε"]
+	nfa4_q1 -> nfa4_q2 [label=0]
+	nfa4_q11 -> nfa4_q12 [label=5]
+	nfa4_q19 -> nfa4_q20 [label=9]
+	nfa4_q10 -> nfa4_q11 [label="ε"]
+	nfa4_q9 -> nfa4_q10 [label=4]
+	nfa4_q8 -> nfa4_q9 [label="ε"]
+	nfa4_q7 -> nfa4_q8 [label=3]
+	nfa4_q13 -> nfa4_q14 [label=6]
+	nfa4_q6 -> nfa4_q7 [label="ε"]
+	nfa4_q14 -> nfa4_q15 [label="ε"]
+	nfa4_q5 -> nfa4_q6 [label=2]
+	nfa4_q15 -> nfa4_q16 [label=7]
+	nfa4_q4 -> nfa4_q5 [label="ε"]
+	nfa4_q16 -> nfa4_q17 [label="ε"]
+	nfa4_q3 -> nfa4_q4 [label=1]
+	nfa4_q2 -> nfa4_q3 [label="ε"]
+	nfa5_q9 -> nfa5_q10 [label=4]
+	nfa5_q16 -> nfa5_q17 [label="ε"]
+	nfa5_q20 -> nfa5_q42 [label="ε"]
+	nfa5_q31 -> nfa5_q32 [label=5]
+	nfa5_q39 -> nfa5_q40 [label=9]
+	nfa5_q3 -> nfa5_q4 [label=1]
+	nfa5_q10 -> nfa5_q11 [label="ε"]
+	nfa5_q32 -> nfa5_q33 [label="ε"]
+	nfa5_q40 -> nfa5_q42 [label="ε"]
+	nfa5_q4 -> nfa5_q5 [label="ε"]
+	nfa5_q11 -> nfa5_q12 [label=5]
+	nfa5_q41 -> nfa5_q1 [label="ε"]
+	nfa5_q41 -> nfa5_q21 [label="ε"]
+	nfa5_q15 -> nfa5_q16 [label=7]
+	nfa5_q19 -> nfa5_q20 [label=9]
+	nfa5_q33 -> nfa5_q34 [label=6]
+	nfa5_q12 -> nfa5_q13 [label="ε"]
+	nfa5_q34 -> nfa5_q35 [label="ε"]
+	nfa5_q5 -> nfa5_q6 [label=2]
+	nfa5_q13 -> nfa5_q14 [label=6]
+	nfa5_q26 -> nfa5_q27 [label="ε"]
+	nfa5_q30 -> nfa5_q31 [label="ε"]
+	nfa5_q14 -> nfa5_q15 [label="ε"]
+	nfa5_q18 -> nfa5_q19 [label="ε"]
+	nfa5_q21 -> nfa5_q22 [label=0]
+	nfa5_q38 -> nfa5_q39 [label="ε"]
+	nfa5_q24 -> nfa5_q25 [label="ε"]
+	nfa5_q27 -> nfa5_q28 [label=3]
+	nfa5_q35 -> nfa5_q36 [label=7]
+	nfa5_q6 -> nfa5_q7 [label="ε"]
+	nfa5_q22 -> nfa5_q23 [label="ε"]
+	nfa5_q28 -> nfa5_q29 [label="ε"]
+	nfa5_q36 -> nfa5_q37 [label="ε"]
+	nfa5_q7 -> nfa5_q8 [label=3]
+	nfa5_q25 -> nfa5_q26 [label=2]
+	nfa5_q2 -> nfa5_q3 [label="ε"]
+	nfa5_q17 -> nfa5_q18 [label=8]
+	nfa5_q23 -> nfa5_q24 [label=1]
+	nfa5_q29 -> nfa5_q30 [label=4]
+	nfa5_q37 -> nfa5_q38 [label=8]
+	nfa5_q8 -> nfa5_q9 [label="ε"]
+	nfa5_q1 -> nfa5_q2 [label=0]
+	nfa6_q8 -> nfa6_q9 [label="ε"]
+	nfa6_q87 -> nfa6_q88 [label=R]
+	nfa6_q119 -> nfa6_q120 [label=7]
+	nfa6_q51 -> nfa6_q52 [label=z]
+	nfa6_q151 -> nfa6_q152 [label=N]
+	nfa6_q9 -> nfa6_q10 [label=e]
+	nfa6_q88 -> nfa6_q89 [label="ε"]
+	nfa6_q120 -> nfa6_q121 [label="ε"]
+	nfa6_q52 -> nfa6_q53 [label="ε"]
+	nfa6_q152 -> nfa6_q153 [label="ε"]
+	nfa6_q10 -> nfa6_q11 [label="ε"]
+	nfa6_q53 -> nfa6_q54 [label=A]
+	nfa6_q89 -> nfa6_q90 [label=S]
+	nfa6_q121 -> nfa6_q122 [label=8]
+	nfa6_q11 -> nfa6_q12 [label=f]
+	nfa6_q153 -> nfa6_q154 [label=O]
+	nfa6_q54 -> nfa6_q55 [label="ε"]
+	nfa6_q90 -> nfa6_q91 [label="ε"]
+	nfa6_q122 -> nfa6_q123 [label="ε"]
+	nfa6_q12 -> nfa6_q13 [label="ε"]
+	nfa6_q154 -> nfa6_q155 [label="ε"]
+	nfa6_q55 -> nfa6_q56 [label=B]
+	nfa6_q13 -> nfa6_q14 [label=g]
+	nfa6_q56 -> nfa6_q57 [label="ε"]
+	nfa6_q91 -> nfa6_q92 [label=T]
+	nfa6_q123 -> nfa6_q124 [label=9]
+	nfa6_q155 -> nfa6_q156 [label=P]
+	nfa6_q14 -> nfa6_q15 [label="ε"]
+	nfa6_q57 -> nfa6_q58 [label=C]
+	nfa6_q92 -> nfa6_q93 [label="ε"]
+	nfa6_q124 -> nfa6_q125 [label="ε"]
+	nfa6_q156 -> nfa6_q157 [label="ε"]
+	nfa6_q15 -> nfa6_q16 [label=h]
+	nfa6_q58 -> nfa6_q59 [label="ε"]
+	nfa6_q16 -> nfa6_q17 [label="ε"]
+	nfa6_q93 -> nfa6_q94 [label=U]
+	nfa6_q125 -> nfa6_q126 [label=A]
+	nfa6_q59 -> nfa6_q60 [label=D]
+	nfa6_q157 -> nfa6_q158 [label=Q]
+	nfa6_q17 -> nfa6_q18 [label=i]
+	nfa6_q94 -> nfa6_q95 [label="ε"]
+	nfa6_q126 -> nfa6_q127 [label="ε"]
+	nfa6_q60 -> nfa6_q61 [label="ε"]
+	nfa6_q158 -> nfa6_q159 [label="ε"]
+	nfa6_q18 -> nfa6_q19 [label="ε"]
+	nfa6_q61 -> nfa6_q62 [label=E]
+	nfa6_q95 -> nfa6_q96 [label=V]
+	nfa6_q127 -> nfa6_q128 [label=B]
+	nfa6_q19 -> nfa6_q20 [label=j]
+	nfa6_q159 -> nfa6_q160 [label=R]
+	nfa6_q62 -> nfa6_q63 [label="ε"]
+	nfa6_q96 -> nfa6_q97 [label="ε"]
+	nfa6_q128 -> nfa6_q129 [label="ε"]
+	nfa6_q20 -> nfa6_q21 [label="ε"]
+	nfa6_q160 -> nfa6_q161 [label="ε"]
+	nfa6_q63 -> nfa6_q64 [label=F]
+	nfa6_q21 -> nfa6_q22 [label=k]
+	nfa6_q64 -> nfa6_q65 [label="ε"]
+	nfa6_q97 -> nfa6_q98 [label=W]
+	nfa6_q129 -> nfa6_q130 [label=C]
+	nfa6_q161 -> nfa6_q162 [label=S]
+	nfa6_q22 -> nfa6_q23 [label="ε"]
+	nfa6_q65 -> nfa6_q66 [label=G]
+	nfa6_q98 -> nfa6_q99 [label="ε"]
+	nfa6_q130 -> nfa6_q131 [label="ε"]
+	nfa6_q162 -> nfa6_q163 [label="ε"]
+	nfa6_q23 -> nfa6_q24 [label=l]
+	nfa6_q66 -> nfa6_q67 [label="ε"]
+	nfa6_q24 -> nfa6_q25 [label="ε"]
+	nfa6_q99 -> nfa6_q100 [label=X]
+	nfa6_q131 -> nfa6_q132 [label=D]
+	nfa6_q67 -> nfa6_q68 [label=H]
+	nfa6_q163 -> nfa6_q164 [label=T]
+	nfa6_q25 -> nfa6_q26 [label=m]
+	nfa6_q100 -> nfa6_q101 [label="ε"]
+	nfa6_q132 -> nfa6_q133 [label="ε"]
+	nfa6_q68 -> nfa6_q69 [label="ε"]
+	nfa6_q164 -> nfa6_q165 [label="ε"]
+	nfa6_q26 -> nfa6_q27 [label="ε"]
+	nfa6_q69 -> nfa6_q70 [label=I]
+	nfa6_q101 -> nfa6_q102 [label=Y]
+	nfa6_q133 -> nfa6_q134 [label=E]
+	nfa6_q27 -> nfa6_q28 [label=n]
+	nfa6_q165 -> nfa6_q166 [label=U]
+	nfa6_q70 -> nfa6_q71 [label="ε"]
+	nfa6_q102 -> nfa6_q103 [label="ε"]
+	nfa6_q134 -> nfa6_q135 [label="ε"]
+	nfa6_q28 -> nfa6_q29 [label="ε"]
+	nfa6_q166 -> nfa6_q167 [label="ε"]
+	nfa6_q29 -> nfa6_q30 [label=o]
+	nfa6_q71 -> nfa6_q72 [label=J]
+	nfa6_q103 -> nfa6_q104 [label=Z]
+	nfa6_q135 -> nfa6_q136 [label=F]
+	nfa6_q167 -> nfa6_q168 [label=V]
+	nfa6_q30 -> nfa6_q31 [label="ε"]
+	nfa6_q72 -> nfa6_q73 [label="ε"]
+	nfa6_q104 -> nfa6_q178 [label="ε"]
+	nfa6_q136 -> nfa6_q137 [label="ε"]
+	nfa6_q168 -> nfa6_q169 [label="ε"]
+	nfa6_q31 -> nfa6_q32 [label=p]
+	nfa6_q1 -> nfa6_q2 [label=a]
+	nfa6_q73 -> nfa6_q74 [label=K]
+	nfa6_q32 -> nfa6_q33 [label="ε"]
+	nfa6_q105 -> nfa6_q106 [label=0]
+	nfa6_q137 -> nfa6_q138 [label=G]
+	nfa6_q169 -> nfa6_q170 [label=W]
+	nfa6_q74 -> nfa6_q75 [label="ε"]
+	nfa6_q33 -> nfa6_q34 [label=q]
+	nfa6_q106 -> nfa6_q107 [label="ε"]
+	nfa6_q138 -> nfa6_q139 [label="ε"]
+	nfa6_q170 -> nfa6_q171 [label="ε"]
+	nfa6_q34 -> nfa6_q35 [label="ε"]
+	nfa6_q75 -> nfa6_q76 [label=L]
+	nfa6_q107 -> nfa6_q108 [label=1]
+	nfa6_q139 -> nfa6_q140 [label=H]
+	nfa6_q35 -> nfa6_q36 [label=r]
+	nfa6_q171 -> nfa6_q172 [label=X]
+	nfa6_q76 -> nfa6_q77 [label="ε"]
+	nfa6_q108 -> nfa6_q109 [label="ε"]
+	nfa6_q140 -> nfa6_q141 [label="ε"]
+	nfa6_q36 -> nfa6_q37 [label="ε"]
+	nfa6_q172 -> nfa6_q173 [label="ε"]
+	nfa6_q37 -> nfa6_q38 [label=s]
+	nfa6_q77 -> nfa6_q78 [label=M]
+	nfa6_q109 -> nfa6_q110 [label=2]
+	nfa6_q141 -> nfa6_q142 [label=I]
+	nfa6_q173 -> nfa6_q174 [label=Y]
+	nfa6_q38 -> nfa6_q39 [label="ε"]
+	nfa6_q78 -> nfa6_q79 [label="ε"]
+	nfa6_q110 -> nfa6_q111 [label="ε"]
+	nfa6_q142 -> nfa6_q143 [label="ε"]
+	nfa6_q174 -> nfa6_q175 [label="ε"]
+	nfa6_q39 -> nfa6_q40 [label=t]
+	nfa6_q79 -> nfa6_q80 [label=N]
+	nfa6_q40 -> nfa6_q41 [label="ε"]
+	nfa6_q111 -> nfa6_q112 [label=3]
+	nfa6_q143 -> nfa6_q144 [label=J]
+	nfa6_q175 -> nfa6_q176 [label=Z]
+	nfa6_q80 -> nfa6_q81 [label="ε"]
+	nfa6_q41 -> nfa6_q42 [label=u]
+	nfa6_q112 -> nfa6_q113 [label="ε"]
+	nfa6_q144 -> nfa6_q145 [label="ε"]
+	nfa6_q176 -> nfa6_q178 [label="ε"]
+	nfa6_q42 -> nfa6_q43 [label="ε"]
+	nfa6_q81 -> nfa6_q82 [label=O]
+	nfa6_q113 -> nfa6_q114 [label=4]
+	nfa6_q145 -> nfa6_q146 [label=K]
+	nfa6_q43 -> nfa6_q44 [label=v]
+	nfa6_q177 -> nfa6_q1 [label="ε"]
+	nfa6_q177 -> nfa6_q105 [label="ε"]
+	nfa6_q2 -> nfa6_q3 [label="ε"]
+	nfa6_q82 -> nfa6_q83 [label="ε"]
+	nfa6_q114 -> nfa6_q115 [label="ε"]
+	nfa6_q146 -> nfa6_q147 [label="ε"]
+	nfa6_q44 -> nfa6_q45 [label="ε"]
+	nfa6_q178 -> nfa6_q180 [label="ε"]
+	nfa6_q3 -> nfa6_q4 [label=b]
+	nfa6_q45 -> nfa6_q46 [label=w]
+	nfa6_q83 -> nfa6_q84 [label=P]
+	nfa6_q115 -> nfa6_q116 [label=5]
+	nfa6_q147 -> nfa6_q148 [label=L]
+	nfa6_q4 -> nfa6_q5 [label="ε"]
+	nfa6_q46 -> nfa6_q47 [label="ε"]
+	nfa6_q84 -> nfa6_q85 [label="ε"]
+	nfa6_q179 -> nfa6_q177 [label="ε"]
+	nfa6_q179 -> nfa6_q180 [label="ε"]
+	nfa6_q116 -> nfa6_q117 [label="ε"]
+	nfa6_q148 -> nfa6_q149 [label="ε"]
+	nfa6_q47 -> nfa6_q48 [label=x]
+	nfa6_q5 -> nfa6_q6 [label=c]
+	nfa6_q85 -> nfa6_q86 [label=Q]
+	nfa6_q48 -> nfa6_q49 [label="ε"]
+	nfa6_q117 -> nfa6_q118 [label=6]
+	nfa6_q149 -> nfa6_q150 [label=M]
+	nfa6_q6 -> nfa6_q7 [label="ε"]
+	nfa6_q86 -> nfa6_q87 [label="ε"]
+	nfa6_q49 -> nfa6_q50 [label=y]
+	nfa6_q118 -> nfa6_q119 [label="ε"]
+	nfa6_q150 -> nfa6_q151 [label="ε"]
+	nfa6_q7 -> nfa6_q8 [label=d]
+	nfa6_q50 -> nfa6_q51 [label="ε"]
+}

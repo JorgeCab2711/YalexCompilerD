@@ -1,0 +1,10 @@
+digraph {
+	graph [rankdir=LR splines=polyline]
+	q5 -> q1 [label="ε"]
+	q1 -> q2 [label=_]
+	q2 -> q6 [label="ε"]
+	q5 -> q3 [label="ε"]
+	q3 -> q4 [label=_]
+	q4 -> q6 [label="ε"]
+	q6 [shape=doublecircle]
+}
