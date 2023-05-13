@@ -1,0 +1,4 @@
+IF (x < 10) THEN
+    x := x + 1;
+ELSE
+    x := x - 1;

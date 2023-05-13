@@ -1,0 +1,39 @@
+/* Configuración del parser para una Gramática Simple de Expresiones Matemáticas */
+/* Sigue la gramática: */
+/* expression → expression + term | expression - term | term */
+/* term → term * factor | term / factor | factor */
+/* factor → ( expression ) | ID | NUMBER */
+
+%token WHITESPACE
+%token ID
+%token NUMBER
+%token PLUS
+%token MINUS
+%token TIMES
+%token DIV
+%token LPAREN
+%token RPAREN
+%token LT
+%token COLON
+%token EQUAL
+%token SEMICOLON
+
+%%
+
+expression:
+    expression PLUS term
+  | expression MINUS term
+  | term
+;
+
+term:
+    term TIMES factor
+  | term DIV factor
+  | factor
+;
+
+factor:
+    LPAREN expression RPAREN
+  | ID
+  | NUMBER
+;

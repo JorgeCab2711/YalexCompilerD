@@ -6,7 +6,7 @@ Laboratorio B
 from Regex import *
 from DirectDFA import *
 from NFA import *
-from DFA import *
+from Old.DFA import *
 
 # Regex to Postfix
 print("-------------------------Regex to Postfix-------------------------")
